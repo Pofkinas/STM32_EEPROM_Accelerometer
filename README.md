@@ -10,6 +10,6 @@ Used hardware:
 * AT24C256
 * Buttons
 * Switch
-* Rezistors
+* Resistors
 
 Completed on 5/31/2024, this marks my first project with STM32 MPU.
